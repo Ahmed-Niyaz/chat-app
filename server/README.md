@@ -5,6 +5,8 @@
 This is a responsive real-time chat application built using the **MERN stack** (MongoDB, Express, React, Node.js) along with **Socket.io** for real-time communication and **Tailwind CSS** for styling. The application allows users to send messages and share files in real time.
 ## Features
 
+## [Demo](https://drive.google.com/file/d/1680-N_k4s5hiJ1VXzuRcAKxrAIRghsPK/view?usp=drive_link)
+
 ### User Features
 - **User Authentication**: Users can register, log in, and log out. Authentication is handled with **JWT tokens**, ensuring secure access.
 - **Profile Management**: Users can upload profile pictures or choose profile colors, and manage their profile details.
